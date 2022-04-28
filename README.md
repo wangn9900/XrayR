@@ -56,7 +56,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/wangn9900/XrayR-release/master
 ```
 ### 使用Docker部署软件
 ```
-git clone https://github.com/XrayR-project/XrayR-release
+git clone https://github.com/wangn9900/XrayR-release
 cd XrayR-release
 编辑配置文件：config.yml，详见：配置文件说明
 启动docker：docker-compose up -d
